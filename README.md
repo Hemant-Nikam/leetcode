@@ -6,6 +6,7 @@ this repository contains leetcode problems solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Hemant-Nikam/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Hemant-Nikam/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 ## Binary Search
 |  |
@@ -18,6 +19,7 @@ this repository contains leetcode problems solutions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Hemant-Nikam/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hemant-Nikam/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 ## String
 |  |
