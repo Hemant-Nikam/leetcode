@@ -26,6 +26,7 @@ this repository contains leetcode problems solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hemant-Nikam/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Hemant-Nikam/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/Hemant-Nikam/leetcode/tree/master/0006-zigzag-conversion) |
 ## Sliding Window
 |  |
 | ------- |
