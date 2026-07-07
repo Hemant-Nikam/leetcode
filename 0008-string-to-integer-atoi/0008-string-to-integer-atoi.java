@@ -1,8 +1,5 @@
 class Solution {
     public int myAtoi(String s) {
-        // System.out.println(Integer.MIN_VALUE);
-        // System.out.println(Math.pow(2,31) -1);
-        // System.out.println(Integer.MAX_VALUE);
 
         long sign = 1;
         long ans = 0;
