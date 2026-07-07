@@ -39,6 +39,7 @@ this repository contains leetcode problems solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Hemant-Nikam/leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Hemant-Nikam/leetcode/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
