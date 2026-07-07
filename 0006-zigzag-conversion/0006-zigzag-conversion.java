@@ -1,6 +1,7 @@
 class Solution {
     public String convert(String s, int numRows) {
         // String ans= "";
+        //used stringBuilder to use methods like append(minimises the time required by appending and not creating a new string again)
         StringBuilder ans = new StringBuilder();
 
         if(numRows == 1)
