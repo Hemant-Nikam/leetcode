@@ -9,6 +9,7 @@ this repository contains leetcode problems solutions
 | [0001-two-sum](https://github.com/Hemant-Nikam/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Hemant-Nikam/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Hemant-Nikam/leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Hemant-Nikam/leetcode/tree/master/0014-longest-common-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -29,6 +30,7 @@ this repository contains leetcode problems solutions
 | [0005-longest-palindromic-substring](https://github.com/Hemant-Nikam/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Hemant-Nikam/leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Hemant-Nikam/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/Hemant-Nikam/leetcode/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -60,4 +62,8 @@ this repository contains leetcode problems solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hemant-Nikam/leetcode/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Hemant-Nikam/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
