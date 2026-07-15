@@ -31,6 +31,7 @@ this repository contains leetcode problems solutions
 | [0006-zigzag-conversion](https://github.com/Hemant-Nikam/leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Hemant-Nikam/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Hemant-Nikam/leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Hemant-Nikam/leetcode/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -71,4 +72,8 @@ this repository contains leetcode problems solutions
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Hemant-Nikam/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Hemant-Nikam/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
