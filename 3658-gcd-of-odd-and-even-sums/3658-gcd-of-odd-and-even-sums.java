@@ -3,10 +3,11 @@ class Solution {
         int sumOdd = n*n;
         int sumEven = n*(n+1);
 
-        int rem = sumEven % sumOdd;
+        
         return n;
         //traditional way for finding GCD:
         /*
+        int rem = sumEven % sumOdd;
         while(rem > 0){
             sumEven = sumOdd;
             sumOdd = rem;
