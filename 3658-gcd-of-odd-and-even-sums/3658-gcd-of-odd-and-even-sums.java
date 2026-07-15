@@ -4,9 +4,9 @@ class Solution {
         int sumEven = n*(n+1);
 
         
-        return n;
+        // return n;
         //traditional way for finding GCD:
-        /*
+        
         int rem = sumEven % sumOdd;
         while(rem > 0){
             sumEven = sumOdd;
@@ -16,6 +16,6 @@ class Solution {
         }
         return sumOdd;
         //In this case: GCD is always the n value "Simply n can be return";
-        */
+        
     }
 }
