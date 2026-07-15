@@ -45,6 +45,7 @@ this repository contains leetcode problems solutions
 | [0002-add-two-numbers](https://github.com/Hemant-Nikam/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Hemant-Nikam/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Hemant-Nikam/leetcode/tree/master/0009-palindrome-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Hemant-Nikam/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -66,4 +67,8 @@ this repository contains leetcode problems solutions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Hemant-Nikam/leetcode/tree/master/0014-longest-common-prefix) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Hemant-Nikam/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
