@@ -10,6 +10,7 @@
  */
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
+        //solve this problms by two pointer methods (not in this solution)
         ListNode temp = head;
         ListNode curr = null;
         int cnt = 0;
