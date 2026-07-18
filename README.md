@@ -10,6 +10,7 @@ this repository contains leetcode problems solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/Hemant-Nikam/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Hemant-Nikam/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Hemant-Nikam/leetcode/tree/master/0014-longest-common-prefix) |
+| [0189-rotate-array](https://github.com/Hemant-Nikam/leetcode/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,6 +52,7 @@ this repository contains leetcode problems solutions
 | [0002-add-two-numbers](https://github.com/Hemant-Nikam/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Hemant-Nikam/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Hemant-Nikam/leetcode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Hemant-Nikam/leetcode/tree/master/0189-rotate-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Hemant-Nikam/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
@@ -65,6 +67,7 @@ this repository contains leetcode problems solutions
 | [0011-container-with-most-water](https://github.com/Hemant-Nikam/leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Hemant-Nikam/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/Hemant-Nikam/leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Hemant-Nikam/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Hemant-Nikam/leetcode/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
