@@ -16,6 +16,7 @@ this repository contains leetcode problems solutions
 | [0042-trapping-rain-water](https://github.com/Hemant-Nikam/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Hemant-Nikam/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Hemant-Nikam/leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Hemant-Nikam/leetcode/tree/master/0217-contains-duplicate) |
 | [0881-boats-to-save-people](https://github.com/Hemant-Nikam/leetcode/tree/master/0881-boats-to-save-people) |
 | [1929-concatenation-of-array](https://github.com/Hemant-Nikam/leetcode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
@@ -31,6 +32,7 @@ this repository contains leetcode problems solutions
 | ------- |
 | [0001-two-sum](https://github.com/Hemant-Nikam/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hemant-Nikam/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/Hemant-Nikam/leetcode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -116,6 +118,7 @@ this repository contains leetcode problems solutions
 | [0015-3sum](https://github.com/Hemant-Nikam/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Hemant-Nikam/leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Hemant-Nikam/leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Hemant-Nikam/leetcode/tree/master/0217-contains-duplicate) |
 | [0881-boats-to-save-people](https://github.com/Hemant-Nikam/leetcode/tree/master/0881-boats-to-save-people) |
 ## Monotonic Stack
 |  |
