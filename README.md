@@ -11,6 +11,7 @@ this repository contains leetcode problems solutions
 | [0011-container-with-most-water](https://github.com/Hemant-Nikam/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Hemant-Nikam/leetcode/tree/master/0014-longest-common-prefix) |
 | [0189-rotate-array](https://github.com/Hemant-Nikam/leetcode/tree/master/0189-rotate-array) |
+| [0881-boats-to-save-people](https://github.com/Hemant-Nikam/leetcode/tree/master/0881-boats-to-save-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,6 +70,7 @@ this repository contains leetcode problems solutions
 | [0125-valid-palindrome](https://github.com/Hemant-Nikam/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Hemant-Nikam/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Hemant-Nikam/leetcode/tree/master/0344-reverse-string) |
+| [0881-boats-to-save-people](https://github.com/Hemant-Nikam/leetcode/tree/master/0881-boats-to-save-people) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,6 +79,7 @@ this repository contains leetcode problems solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hemant-Nikam/leetcode/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/Hemant-Nikam/leetcode/tree/master/0881-boats-to-save-people) |
 ## Trie
 |  |
 | ------- |
@@ -89,4 +92,8 @@ this repository contains leetcode problems solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hemant-Nikam/leetcode/tree/master/0020-valid-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Hemant-Nikam/leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
