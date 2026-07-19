@@ -6,12 +6,10 @@ class Solution {
 
         int freq[] = new int [26];
 
-        for(char ch : s.toCharArray())
-            freq[ch - 97]++;
-        
-        for(char ch : t.toCharArray())
-            freq[ch - 97]--;
-        
+        for(int i = 0 ; i < s.length() ; i++){
+            freq[s.charAt(i) - 97]++;
+            freq[t.charAt(i) - 97]--;
+        }
         for(int i : freq)
             if(i != 0)
                 return false;
