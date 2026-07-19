@@ -5,19 +5,13 @@ class Solution {
         int j = people.length -1;
         int cnt = 0;
 
-        while(i < j){
+        while(i <= j){
             if(people[j] + people[i] <= limit){
                 i++;
-                j--;
-                cnt++;
             }
-            else{
-                j--;
-                cnt++;
-            }
-        }
-        if(i == j)
+            j--;
             cnt++;
+        }
         return cnt;
     }
 }
