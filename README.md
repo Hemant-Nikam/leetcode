@@ -20,6 +20,7 @@ this repository contains leetcode problems solutions
 | [0169-majority-element](https://github.com/Hemant-Nikam/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Hemant-Nikam/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Hemant-Nikam/leetcode/tree/master/0217-contains-duplicate) |
+| [0705-design-hashset](https://github.com/Hemant-Nikam/leetcode/tree/master/0705-design-hashset) |
 | [0881-boats-to-save-people](https://github.com/Hemant-Nikam/leetcode/tree/master/0881-boats-to-save-people) |
 | [1929-concatenation-of-array](https://github.com/Hemant-Nikam/leetcode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
@@ -40,6 +41,7 @@ this repository contains leetcode problems solutions
 | [0169-majority-element](https://github.com/Hemant-Nikam/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Hemant-Nikam/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Hemant-Nikam/leetcode/tree/master/0242-valid-anagram) |
+| [0705-design-hashset](https://github.com/Hemant-Nikam/leetcode/tree/master/0705-design-hashset) |
 ## String
 |  |
 | ------- |
@@ -66,6 +68,7 @@ this repository contains leetcode problems solutions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Hemant-Nikam/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Hemant-Nikam/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Hemant-Nikam/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0705-design-hashset](https://github.com/Hemant-Nikam/leetcode/tree/master/0705-design-hashset) |
 ## Math
 |  |
 | ------- |
@@ -145,4 +148,12 @@ this repository contains leetcode problems solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Hemant-Nikam/leetcode/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Hemant-Nikam/leetcode/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Hemant-Nikam/leetcode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
