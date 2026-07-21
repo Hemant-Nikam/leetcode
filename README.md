@@ -14,6 +14,7 @@ this repository contains leetcode problems solutions
 | [0018-4sum](https://github.com/Hemant-Nikam/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hemant-Nikam/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Hemant-Nikam/leetcode/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/Hemant-Nikam/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Hemant-Nikam/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Hemant-Nikam/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Hemant-Nikam/leetcode/tree/master/0088-merge-sorted-array) |
@@ -37,6 +38,7 @@ this repository contains leetcode problems solutions
 | ------- |
 | [0001-two-sum](https://github.com/Hemant-Nikam/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hemant-Nikam/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/Hemant-Nikam/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Hemant-Nikam/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Hemant-Nikam/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Hemant-Nikam/leetcode/tree/master/0217-contains-duplicate) |
