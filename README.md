@@ -217,4 +217,12 @@ this repository contains leetcode problems solutions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Hemant-Nikam/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/Hemant-Nikam/leetcode/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/Hemant-Nikam/leetcode/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
