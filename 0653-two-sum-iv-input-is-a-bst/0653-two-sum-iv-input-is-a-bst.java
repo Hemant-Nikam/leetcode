@@ -14,22 +14,19 @@
  * }
  */
 class Solution {
-    List<Integer> lst = new ArrayList<>();
+    Set<Integer> lst = new HashSet<>();
     public boolean findTarget(TreeNode root, int k) {
         if(root == null)
             return false;
-        boolean l = findTarget(root.left,k);
-        TreeNode temp = root;
-        int comp = k - temp.val;
-        boolean c = false;
-        if(lst.contains(comp)){
-            c = true;
+        if(findTarget(root.left,k))
+            return true;
+
+        if(lst.contains(k - root.val)){
             return true;
         }
         
-        lst.add(temp.val);
+        lst.add(root.val);
 
-        boolean r = findTarget(root.right,k);
-        return l || r || c;
+        return findTarget(root.right,k);
     }
 }
