@@ -23,9 +23,8 @@ class Solution {
             }
         }
         int sum = 0;
-        for(int i : st){
-            System.out.print(i + " ");
-            sum += i;
+        while(!st.isEmpty()){
+            sum += st.pop();
         }
         return sum;
     }
