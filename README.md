@@ -27,6 +27,7 @@ this repository contains leetcode problems solutions
 | [0219-contains-duplicate-ii](https://github.com/Hemant-Nikam/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Hemant-Nikam/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Hemant-Nikam/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/Hemant-Nikam/leetcode/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/Hemant-Nikam/leetcode/tree/master/0705-design-hashset) |
 | [0881-boats-to-save-people](https://github.com/Hemant-Nikam/leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Hemant-Nikam/leetcode/tree/master/0912-sort-an-array) |
@@ -153,6 +154,7 @@ this repository contains leetcode problems solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hemant-Nikam/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Hemant-Nikam/leetcode/tree/master/0042-trapping-rain-water) |
+| [0682-baseball-game](https://github.com/Hemant-Nikam/leetcode/tree/master/0682-baseball-game) |
 ## Sorting
 |  |
 | ------- |
@@ -174,6 +176,7 @@ this repository contains leetcode problems solutions
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Hemant-Nikam/leetcode/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/Hemant-Nikam/leetcode/tree/master/1929-concatenation-of-array) |
 ## Counting
 |  |
