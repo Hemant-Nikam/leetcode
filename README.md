@@ -164,6 +164,7 @@ this repository contains leetcode problems solutions
 | [0682-baseball-game](https://github.com/Hemant-Nikam/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Hemant-Nikam/leetcode/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/Hemant-Nikam/leetcode/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/Hemant-Nikam/leetcode/tree/master/0901-online-stock-span) |
 ## Sorting
 |  |
 | ------- |
@@ -184,6 +185,7 @@ this repository contains leetcode problems solutions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Hemant-Nikam/leetcode/tree/master/0042-trapping-rain-water) |
 | [0853-car-fleet](https://github.com/Hemant-Nikam/leetcode/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/Hemant-Nikam/leetcode/tree/master/0901-online-stock-span) |
 ## Simulation
 |  |
 | ------- |
@@ -200,6 +202,7 @@ this repository contains leetcode problems solutions
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Hemant-Nikam/leetcode/tree/master/0705-design-hashset) |
+| [0901-online-stock-span](https://github.com/Hemant-Nikam/leetcode/tree/master/0901-online-stock-span) |
 ## Hash Function
 |  |
 | ------- |
@@ -265,4 +268,8 @@ this repository contains leetcode problems solutions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Hemant-Nikam/leetcode/tree/master/0070-climbing-stairs) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Hemant-Nikam/leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
