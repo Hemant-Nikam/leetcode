@@ -79,6 +79,7 @@ this repository contains leetcode problems solutions
 | [0125-valid-palindrome](https://github.com/Hemant-Nikam/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Hemant-Nikam/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Hemant-Nikam/leetcode/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/Hemant-Nikam/leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hemant-Nikam/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Hemant-Nikam/leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Hemant-Nikam/leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -116,6 +117,7 @@ this repository contains leetcode problems solutions
 | [0002-add-two-numbers](https://github.com/Hemant-Nikam/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Hemant-Nikam/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Hemant-Nikam/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0394-decode-string](https://github.com/Hemant-Nikam/leetcode/tree/master/0394-decode-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -164,6 +166,7 @@ this repository contains leetcode problems solutions
 | [0020-valid-parentheses](https://github.com/Hemant-Nikam/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Hemant-Nikam/leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Hemant-Nikam/leetcode/tree/master/0071-simplify-path) |
+| [0394-decode-string](https://github.com/Hemant-Nikam/leetcode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/Hemant-Nikam/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Hemant-Nikam/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Hemant-Nikam/leetcode/tree/master/0739-daily-temperatures) |
