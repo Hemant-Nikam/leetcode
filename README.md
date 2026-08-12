@@ -14,6 +14,7 @@ this repository contains leetcode problems solutions
 | [0018-4sum](https://github.com/Hemant-Nikam/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hemant-Nikam/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Hemant-Nikam/leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Hemant-Nikam/leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Hemant-Nikam/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Hemant-Nikam/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Hemant-Nikam/leetcode/tree/master/0049-group-anagrams) |
@@ -41,6 +42,7 @@ this repository contains leetcode problems solutions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Hemant-Nikam/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Hemant-Nikam/leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Hemant-Nikam/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Hemant-Nikam/leetcode/tree/master/0704-binary-search) |
 ## Divide and Conquer
