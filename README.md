@@ -43,6 +43,7 @@ this repository contains leetcode problems solutions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Hemant-Nikam/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Hemant-Nikam/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Hemant-Nikam/leetcode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Hemant-Nikam/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/Hemant-Nikam/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Hemant-Nikam/leetcode/tree/master/0704-binary-search) |
@@ -114,6 +115,7 @@ this repository contains leetcode problems solutions
 | [0002-add-two-numbers](https://github.com/Hemant-Nikam/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Hemant-Nikam/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Hemant-Nikam/leetcode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Hemant-Nikam/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Hemant-Nikam/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Hemant-Nikam/leetcode/tree/master/0189-rotate-array) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Hemant-Nikam/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -303,4 +305,8 @@ this repository contains leetcode problems solutions
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Hemant-Nikam/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Hemant-Nikam/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
