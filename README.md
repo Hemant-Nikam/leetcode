@@ -75,6 +75,7 @@ this repository contains leetcode problems solutions
 | [0014-longest-common-prefix](https://github.com/Hemant-Nikam/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Hemant-Nikam/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Hemant-Nikam/leetcode/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/Hemant-Nikam/leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Hemant-Nikam/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Hemant-Nikam/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Hemant-Nikam/leetcode/tree/master/0344-reverse-string) |
@@ -162,6 +163,7 @@ this repository contains leetcode problems solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hemant-Nikam/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Hemant-Nikam/leetcode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Hemant-Nikam/leetcode/tree/master/0071-simplify-path) |
 | [0682-baseball-game](https://github.com/Hemant-Nikam/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Hemant-Nikam/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Hemant-Nikam/leetcode/tree/master/0739-daily-temperatures) |
