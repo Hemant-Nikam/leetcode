@@ -44,6 +44,7 @@ this repository contains leetcode problems solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/Hemant-Nikam/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Hemant-Nikam/leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Hemant-Nikam/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0374-guess-number-higher-or-lower](https://github.com/Hemant-Nikam/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Hemant-Nikam/leetcode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -298,4 +299,8 @@ this repository contains leetcode problems solutions
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Hemant-Nikam/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Hemant-Nikam/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
