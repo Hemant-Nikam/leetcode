@@ -2,7 +2,7 @@ class Solution {
     public String simplifyPath(String path) {
 
         String[] tokens = path.split("/");
-        Stack<String> st = new Stack<>();
+        Deque<String> st = new ArrayDeque<>();
         for(String s : tokens){
             if(s.length() == 0 || s.equals("."))
                 continue;
@@ -16,7 +16,7 @@ class Solution {
         }
         StringBuilder sb = new StringBuilder();
         while(!st.isEmpty()){
-            sb.insert(0,"/" + st.pop());
+            sb.append("/"+ st.removeLast());
         }
         return sb.toString().length() == 0 ? "/" : sb.toString();
     }
