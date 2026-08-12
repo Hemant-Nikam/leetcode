@@ -64,6 +64,7 @@ this repository contains leetcode problems solutions
 | [0567-permutation-in-string](https://github.com/Hemant-Nikam/leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Hemant-Nikam/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/Hemant-Nikam/leetcode/tree/master/0705-design-hashset) |
+| [0895-maximum-frequency-stack](https://github.com/Hemant-Nikam/leetcode/tree/master/0895-maximum-frequency-stack) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Hemant-Nikam/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
@@ -171,6 +172,7 @@ this repository contains leetcode problems solutions
 | [0735-asteroid-collision](https://github.com/Hemant-Nikam/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Hemant-Nikam/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Hemant-Nikam/leetcode/tree/master/0853-car-fleet) |
+| [0895-maximum-frequency-stack](https://github.com/Hemant-Nikam/leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/Hemant-Nikam/leetcode/tree/master/0901-online-stock-span) |
 ## Sorting
 |  |
@@ -210,6 +212,7 @@ this repository contains leetcode problems solutions
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Hemant-Nikam/leetcode/tree/master/0705-design-hashset) |
+| [0895-maximum-frequency-stack](https://github.com/Hemant-Nikam/leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/Hemant-Nikam/leetcode/tree/master/0901-online-stock-span) |
 ## Hash Function
 |  |
@@ -280,4 +283,8 @@ this repository contains leetcode problems solutions
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Hemant-Nikam/leetcode/tree/master/0901-online-stock-span) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/Hemant-Nikam/leetcode/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
