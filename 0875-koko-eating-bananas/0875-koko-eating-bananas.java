@@ -2,9 +2,12 @@ class Solution {
     public int minEatingSpeed(int[] piles, int h) {
         int i = 1;
         int j = 0;
+        long total = 0;
         for(int m : piles){
-            j = Math.max(j , m);
+            total += m;
         }
+        i = (int)((total - 1) / h) + 1;
+        j =(int)((total - piles.length) / (h - piles.length + 1)) + 1;
         int ans = 0;
         while(i <= j){
             int mid = i + (j - i)/2 ;
