@@ -18,6 +18,7 @@ this repository contains leetcode problems solutions
 | [0041-first-missing-positive](https://github.com/Hemant-Nikam/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Hemant-Nikam/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Hemant-Nikam/leetcode/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/Hemant-Nikam/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Hemant-Nikam/leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Hemant-Nikam/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Hemant-Nikam/leetcode/tree/master/0088-merge-sorted-array) |
@@ -44,6 +45,7 @@ this repository contains leetcode problems solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/Hemant-Nikam/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Hemant-Nikam/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Hemant-Nikam/leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Hemant-Nikam/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Hemant-Nikam/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/Hemant-Nikam/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Hemant-Nikam/leetcode/tree/master/0704-binary-search) |
@@ -309,4 +311,8 @@ this repository contains leetcode problems solutions
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Hemant-Nikam/leetcode/tree/master/0069-sqrtx) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Hemant-Nikam/leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
