@@ -63,7 +63,7 @@ class Solution {
                 j = mid - 1;
 
             else
-                i = i+ 1;       
+                i = mid + 1;       
         }
         return -1;
     }
