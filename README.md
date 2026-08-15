@@ -39,6 +39,7 @@ this repository contains leetcode problems solutions
 | [0875-koko-eating-bananas](https://github.com/Hemant-Nikam/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Hemant-Nikam/leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Hemant-Nikam/leetcode/tree/master/0912-sort-an-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Hemant-Nikam/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1929-concatenation-of-array](https://github.com/Hemant-Nikam/leetcode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
@@ -51,6 +52,7 @@ this repository contains leetcode problems solutions
 | [0374-guess-number-higher-or-lower](https://github.com/Hemant-Nikam/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Hemant-Nikam/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Hemant-Nikam/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Hemant-Nikam/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Divide and Conquer
 |  |
 | ------- |
