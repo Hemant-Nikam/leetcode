@@ -21,6 +21,7 @@ this repository contains leetcode problems solutions
 | [0049-group-anagrams](https://github.com/Hemant-Nikam/leetcode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Hemant-Nikam/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Hemant-Nikam/leetcode/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Hemant-Nikam/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Hemant-Nikam/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Hemant-Nikam/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemant-Nikam/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -51,6 +52,7 @@ this repository contains leetcode problems solutions
 | [0035-search-insert-position](https://github.com/Hemant-Nikam/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Hemant-Nikam/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Hemant-Nikam/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Hemant-Nikam/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hemant-Nikam/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Hemant-Nikam/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/Hemant-Nikam/leetcode/tree/master/0374-guess-number-higher-or-lower) |
