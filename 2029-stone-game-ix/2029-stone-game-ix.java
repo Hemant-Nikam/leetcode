@@ -1,21 +1,14 @@
 class Solution {
     public boolean stoneGameIX(int[] stones) {
-        int c0 = 0;
-        int c1 = 0;
-        int c2 = 0;
+        int cnt[] = new int[3];
         for(int i : stones)
         {
-            if(i%3 == 0)
-                c0++;
-            else if(i % 3 == 1)
-                c1++;
-            else
-                c2++;
+            cnt[i%3]++ ;
         }
-        if(c0 % 2 == 0)
+        if(cnt[0] % 2 == 0)
         {
-            return (c1 >= 1  && c2 >= 1) && (c1 >= c2 || c2 >= c1); 
+            return (cnt[1] > 0 && cnt[2] > 0) && (cnt[1] >= cnt[2] || cnt[2] >= cnt[1] ); 
         }
-        return (c1 - c2 >= 3) || (c2 - c1 >= 3);
+        return (cnt[1] - cnt[2] >= 3) || (cnt[2] - cnt[1] >= 3);
     }
 }
