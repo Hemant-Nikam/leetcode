@@ -44,6 +44,7 @@ this repository contains leetcode problems solutions
 | [0912-sort-an-array](https://github.com/Hemant-Nikam/leetcode/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Hemant-Nikam/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1929-concatenation-of-array](https://github.com/Hemant-Nikam/leetcode/tree/master/1929-concatenation-of-array) |
+| [2029-stone-game-ix](https://github.com/Hemant-Nikam/leetcode/tree/master/2029-stone-game-ix) |
 ## Binary Search
 |  |
 | ------- |
@@ -130,6 +131,7 @@ this repository contains leetcode problems solutions
 | [0069-sqrtx](https://github.com/Hemant-Nikam/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Hemant-Nikam/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Hemant-Nikam/leetcode/tree/master/0189-rotate-array) |
+| [2029-stone-game-ix](https://github.com/Hemant-Nikam/leetcode/tree/master/2029-stone-game-ix) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Hemant-Nikam/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Hemant-Nikam/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
@@ -173,6 +175,7 @@ this repository contains leetcode problems solutions
 | [0011-container-with-most-water](https://github.com/Hemant-Nikam/leetcode/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/Hemant-Nikam/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Hemant-Nikam/leetcode/tree/master/0881-boats-to-save-people) |
+| [2029-stone-game-ix](https://github.com/Hemant-Nikam/leetcode/tree/master/2029-stone-game-ix) |
 ## Trie
 |  |
 | ------- |
@@ -229,6 +232,7 @@ this repository contains leetcode problems solutions
 | ------- |
 | [0169-majority-element](https://github.com/Hemant-Nikam/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Hemant-Nikam/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2029-stone-game-ix](https://github.com/Hemant-Nikam/leetcode/tree/master/2029-stone-game-ix) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Hemant-Nikam/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Design
 |  |
@@ -325,4 +329,20 @@ this repository contains leetcode problems solutions
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Hemant-Nikam/leetcode/tree/master/0074-search-a-2d-matrix) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Hemant-Nikam/leetcode/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Hemant-Nikam/leetcode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Hemant-Nikam/leetcode/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Hemant-Nikam/leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
