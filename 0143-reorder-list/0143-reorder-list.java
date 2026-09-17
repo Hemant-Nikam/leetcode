@@ -10,45 +10,45 @@
  */
 
 class Solution {
-    public ListNode lastNode(ListNode head)
-    {
-        if(head == null)
-            return head;
-        ListNode slast = head;
-        while(head.next != null)
-        {
-            slast = head;
-            head = head.next;
-        }
-        slast.next = null;
-        return head;
-    }
     public void reorderList(ListNode head) {
-        ListNode curr = head;
-        int cnt = 0;
-        ListNode last = curr;
-        ListNode temp = curr;
+        ListNode slow = head ;
+        ListNode fast = head ;
 
+        while(fast != null && fast.next != null)
+        {
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        if(fast == slow || slow == null || slow.next == null)
+            return ;
+        ListNode first = head;
+        ListNode second = slow.next;
+        ListNode prev = null;
+        ListNode temp = second.next;
+        
+        slow.next = null;
 
-        while(curr != null)
+        while(temp != null)
         {
-            cnt++;
-            curr = curr.next;
+            second.next = prev;
+            prev = second;
+            second = temp;
+            temp = temp.next;
         }
-        curr = head;
-        for(int i = 0;i < cnt / 2 ; i++)
+        second.next = prev;
+        ListNode tmp1 = first.next;
+        ListNode tmp2 = second.next;
+        while(second != null && second.next != null)
         {
-            temp = curr.next;
-            curr.next = last = lastNode(temp);
-            if(last == temp)
-            {
-                curr.next = temp;
-            }
-            last.next = temp;
-            curr = temp;
-            
+            first.next = second;
+            first = tmp1;
+            second.next = first;
+            second = tmp2;
+            tmp1 = first.next;
+            tmp2 = second.next;
         }
-        temp.next = null;
+        first.next = second;
+        second.next = tmp1;
 
     }
 }
