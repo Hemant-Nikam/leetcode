@@ -74,6 +74,7 @@ this repository contains leetcode problems solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hemant-Nikam/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Hemant-Nikam/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Hemant-Nikam/leetcode/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/Hemant-Nikam/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Hemant-Nikam/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Hemant-Nikam/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Hemant-Nikam/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -121,6 +122,7 @@ this repository contains leetcode problems solutions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Hemant-Nikam/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Hemant-Nikam/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Hemant-Nikam/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0141-linked-list-cycle](https://github.com/Hemant-Nikam/leetcode/tree/master/0141-linked-list-cycle) |
 | [0705-design-hashset](https://github.com/Hemant-Nikam/leetcode/tree/master/0705-design-hashset) |
 ## Math
 |  |
@@ -155,6 +157,7 @@ this repository contains leetcode problems solutions
 | [0075-sort-colors](https://github.com/Hemant-Nikam/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Hemant-Nikam/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Hemant-Nikam/leetcode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Hemant-Nikam/leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Hemant-Nikam/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Hemant-Nikam/leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Hemant-Nikam/leetcode/tree/master/0567-permutation-in-string) |
@@ -345,4 +348,8 @@ this repository contains leetcode problems solutions
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Hemant-Nikam/leetcode/tree/master/2029-stone-game-ix) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Hemant-Nikam/leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
