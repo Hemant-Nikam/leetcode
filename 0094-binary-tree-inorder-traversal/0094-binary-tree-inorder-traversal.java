@@ -19,9 +19,9 @@ class Solution {
     {
         if(root == null)
             return;
-        inorderTraversal(root.left);
+        inorder(root.left);
         list.add(root.val);
-        inorderTraversal(root.right);
+        inorder(root.right);
 
     }
     public List<Integer> inorderTraversal(TreeNode root) {
