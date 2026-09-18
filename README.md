@@ -125,6 +125,7 @@ this repository contains leetcode problems solutions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Hemant-Nikam/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Hemant-Nikam/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Hemant-Nikam/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0092-reverse-linked-list-ii](https://github.com/Hemant-Nikam/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Hemant-Nikam/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Hemant-Nikam/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Hemant-Nikam/leetcode/tree/master/0143-reorder-list) |
