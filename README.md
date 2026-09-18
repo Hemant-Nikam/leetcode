@@ -300,6 +300,7 @@ this repository contains leetcode problems solutions
 | [0226-invert-binary-tree](https://github.com/Hemant-Nikam/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hemant-Nikam/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Hemant-Nikam/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Hemant-Nikam/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Hemant-Nikam/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
@@ -310,6 +311,7 @@ this repository contains leetcode problems solutions
 | [0226-invert-binary-tree](https://github.com/Hemant-Nikam/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hemant-Nikam/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Hemant-Nikam/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Hemant-Nikam/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Hemant-Nikam/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -330,6 +332,7 @@ this repository contains leetcode problems solutions
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hemant-Nikam/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Hemant-Nikam/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Hemant-Nikam/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Combinatorics
 |  |
 | ------- |
