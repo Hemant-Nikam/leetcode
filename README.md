@@ -203,6 +203,7 @@ this repository contains leetcode problems solutions
 | [0042-trapping-rain-water](https://github.com/Hemant-Nikam/leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Hemant-Nikam/leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Hemant-Nikam/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Hemant-Nikam/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Hemant-Nikam/leetcode/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/Hemant-Nikam/leetcode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/Hemant-Nikam/leetcode/tree/master/0682-baseball-game) |
@@ -291,16 +292,19 @@ this repository contains leetcode problems solutions
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Hemant-Nikam/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Hemant-Nikam/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2236-root-equals-sum-of-children](https://github.com/Hemant-Nikam/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Hemant-Nikam/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Hemant-Nikam/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2236-root-equals-sum-of-children](https://github.com/Hemant-Nikam/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Hemant-Nikam/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Hemant-Nikam/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
