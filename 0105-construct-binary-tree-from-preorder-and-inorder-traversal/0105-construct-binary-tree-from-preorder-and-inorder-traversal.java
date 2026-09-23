@@ -17,7 +17,8 @@
 class Solution {
     int[] preOrder ;
     int[] inOrder ;
-    
+    HashMap<Integer,Integer> map = new HashMap<>();
+
     int index(int[] arr , int target)
     {
         int i = 0;
@@ -34,7 +35,7 @@ class Solution {
 
         TreeNode root = new TreeNode(preOrder[ps]);
 
-        int mid = index(inOrder , preOrder[ps]);
+        int mid = map.get(preOrder[ps]);
 
         root.left = build( ps + 1 , ps + 1 + mid - is , is , mid);
 
@@ -45,7 +46,8 @@ class Solution {
     public TreeNode buildTree(int[] preorder, int[] inorder) {
         this.preOrder = preorder;
         this.inOrder = inorder;
-
+        for(int i = 0 ; i < inorder.length ; i ++ )
+            map.put(inorder[i] , i);
         if(inorder.length == 0 || preorder.length == 0)
             return null;
         
