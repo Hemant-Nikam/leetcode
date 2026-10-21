@@ -26,6 +26,7 @@ this repository contains leetcode problems solutions
 | [0088-merge-sorted-array](https://github.com/Hemant-Nikam/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hemant-Nikam/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemant-Nikam/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Hemant-Nikam/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hemant-Nikam/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Hemant-Nikam/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Hemant-Nikam/leetcode/tree/master/0189-rotate-array) |
@@ -410,6 +411,7 @@ this repository contains leetcode problems solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Hemant-Nikam/leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Hemant-Nikam/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
