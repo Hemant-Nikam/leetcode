@@ -1,16 +1,10 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        Arrays.sort(nums);
-        int i = 1;
-        if(nums.length == 1)
-            return nums[0];
-        while(i < nums.length)
+        int ans = 0;
+        for(int i : nums)
         {
-            if(nums[i] == nums[i -1])
-                i = i+2;
-            else
-                return nums[i - 1];
+            ans = ans ^ i ;
         }
-        return nums[i -1];
+        return ans;
     }
 }
