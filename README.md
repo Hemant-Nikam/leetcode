@@ -26,6 +26,7 @@ this repository contains leetcode problems solutions
 | [0084-largest-rectangle-in-histogram](https://github.com/Hemant-Nikam/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Hemant-Nikam/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hemant-Nikam/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0118-pascals-triangle](https://github.com/Hemant-Nikam/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemant-Nikam/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Hemant-Nikam/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hemant-Nikam/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -194,6 +195,7 @@ this repository contains leetcode problems solutions
 | [0005-longest-palindromic-substring](https://github.com/Hemant-Nikam/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Hemant-Nikam/leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Hemant-Nikam/leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Hemant-Nikam/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemant-Nikam/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0337-house-robber-iii](https://github.com/Hemant-Nikam/leetcode/tree/master/0337-house-robber-iii) |
 ## Greedy
