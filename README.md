@@ -441,4 +441,8 @@ this repository contains leetcode problems solutions
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/Hemant-Nikam/leetcode/tree/master/0337-house-robber-iii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Hemant-Nikam/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
