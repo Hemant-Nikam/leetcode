@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select player_id , event_date AS first_login  from (select * , ROW_NUMBER() OVER (PARTITION BY player_id order by  event_date ) as num from Activity ) as temp where num = 1;
