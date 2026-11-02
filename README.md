@@ -40,6 +40,7 @@ this repository contains leetcode problems solutions
 | [0287-find-the-duplicate-number](https://github.com/Hemant-Nikam/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Hemant-Nikam/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hemant-Nikam/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Hemant-Nikam/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Hemant-Nikam/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Hemant-Nikam/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Hemant-Nikam/leetcode/tree/master/0704-binary-search) |
