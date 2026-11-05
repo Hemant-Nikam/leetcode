@@ -1,9 +1,9 @@
 class Solution {
 
-    public void reverse(int nums[])
+    public void reverse(int nums[] ,int st, int end)
     {
-        int i = 0;
-        int j = nums.length -1;
+        int i = st;
+        int j = end - 1;
         while(i < j)
         {
             int temp = nums[i];
@@ -27,7 +27,7 @@ class Solution {
 
         if(idx == -1)
         {
-            reverse(nums);
+            reverse(nums , 0 , n);
             return;
         }
 
@@ -42,7 +42,7 @@ class Solution {
             }
         }
 
-        Arrays.sort(nums,idx+1 , n);
+        reverse(nums,idx+1 , n);
 
     }
 }
