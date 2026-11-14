@@ -125,6 +125,7 @@ this repository contains leetcode problems solutions
 | [0424-longest-repeating-character-replacement](https://github.com/Hemant-Nikam/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Hemant-Nikam/leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Hemant-Nikam/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Hemant-Nikam/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/Hemant-Nikam/leetcode/tree/master/1768-merge-strings-alternately) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Hemant-Nikam/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sliding Window
