@@ -51,6 +51,7 @@ this repository contains leetcode problems solutions
 | [0735-asteroid-collision](https://github.com/Hemant-Nikam/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Hemant-Nikam/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Hemant-Nikam/leetcode/tree/master/0853-car-fleet) |
+| [0867-transpose-matrix](https://github.com/Hemant-Nikam/leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Hemant-Nikam/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Hemant-Nikam/leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Hemant-Nikam/leetcode/tree/master/0912-sort-an-array) |
@@ -280,6 +281,7 @@ this repository contains leetcode problems solutions
 | ------- |
 | [0682-baseball-game](https://github.com/Hemant-Nikam/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Hemant-Nikam/leetcode/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/Hemant-Nikam/leetcode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Hemant-Nikam/leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Hemant-Nikam/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Counting
@@ -420,6 +422,7 @@ this repository contains leetcode problems solutions
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Hemant-Nikam/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Hemant-Nikam/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/Hemant-Nikam/leetcode/tree/master/0867-transpose-matrix) |
 ## Minimax
 |  |
 | ------- |
