@@ -93,6 +93,7 @@ this repository contains leetcode problems solutions
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hemant-Nikam/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Hemant-Nikam/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Hemant-Nikam/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Hemant-Nikam/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Hemant-Nikam/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Hemant-Nikam/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Hemant-Nikam/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -146,6 +147,7 @@ this repository contains leetcode problems solutions
 | [0092-reverse-linked-list-ii](https://github.com/Hemant-Nikam/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Hemant-Nikam/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Hemant-Nikam/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Hemant-Nikam/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Hemant-Nikam/leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Hemant-Nikam/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/Hemant-Nikam/leetcode/tree/master/0705-design-hashset) |
@@ -188,6 +190,7 @@ this repository contains leetcode problems solutions
 | [0088-merge-sorted-array](https://github.com/Hemant-Nikam/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Hemant-Nikam/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Hemant-Nikam/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Hemant-Nikam/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Hemant-Nikam/leetcode/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/Hemant-Nikam/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Hemant-Nikam/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -432,6 +435,7 @@ this repository contains leetcode problems solutions
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Hemant-Nikam/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Hemant-Nikam/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Hemant-Nikam/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
