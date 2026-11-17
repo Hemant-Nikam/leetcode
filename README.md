@@ -147,6 +147,7 @@ this repository contains leetcode problems solutions
 | [0138-copy-list-with-random-pointer](https://github.com/Hemant-Nikam/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Hemant-Nikam/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Hemant-Nikam/leetcode/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/Hemant-Nikam/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/Hemant-Nikam/leetcode/tree/master/0705-design-hashset) |
 ## Math
 |  |
@@ -169,6 +170,7 @@ this repository contains leetcode problems solutions
 | [0021-merge-two-sorted-lists](https://github.com/Hemant-Nikam/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Hemant-Nikam/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/Hemant-Nikam/leetcode/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/Hemant-Nikam/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Hemant-Nikam/leetcode/tree/master/0394-decode-string) |
 ## Two Pointers
 |  |
@@ -188,6 +190,7 @@ this repository contains leetcode problems solutions
 | [0141-linked-list-cycle](https://github.com/Hemant-Nikam/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Hemant-Nikam/leetcode/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/Hemant-Nikam/leetcode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Hemant-Nikam/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Hemant-Nikam/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Hemant-Nikam/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Hemant-Nikam/leetcode/tree/master/0344-reverse-string) |
@@ -233,6 +236,7 @@ this repository contains leetcode problems solutions
 | [0143-reorder-list](https://github.com/Hemant-Nikam/leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hemant-Nikam/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hemant-Nikam/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/Hemant-Nikam/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Hemant-Nikam/leetcode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/Hemant-Nikam/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Hemant-Nikam/leetcode/tree/master/0735-asteroid-collision) |
