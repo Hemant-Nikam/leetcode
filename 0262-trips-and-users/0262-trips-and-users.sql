@@ -5,5 +5,5 @@ select
 from Trips 
 where client_id Not In (select users_id from Users where banned = 'Yes') 
 AND driver_id NOT IN (select users_id from Users where banned = 'Yes')
-AND request_at IN ('2013-10-01', '2013-10-02', '2013-10-03')
+AND request_at BETWEEN '2013-10-01' AND '2013-10-03'
 GROUP BY request_at
