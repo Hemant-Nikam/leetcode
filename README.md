@@ -51,6 +51,7 @@ this repository contains leetcode problems solutions
 | [0735-asteroid-collision](https://github.com/Hemant-Nikam/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Hemant-Nikam/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Hemant-Nikam/leetcode/tree/master/0853-car-fleet) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Hemant-Nikam/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0867-transpose-matrix](https://github.com/Hemant-Nikam/leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Hemant-Nikam/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Hemant-Nikam/leetcode/tree/master/0881-boats-to-save-people) |
@@ -74,6 +75,7 @@ this repository contains leetcode problems solutions
 | [0287-find-the-duplicate-number](https://github.com/Hemant-Nikam/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Hemant-Nikam/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Hemant-Nikam/leetcode/tree/master/0704-binary-search) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Hemant-Nikam/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/Hemant-Nikam/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Hemant-Nikam/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Divide and Conquer
@@ -140,6 +142,7 @@ this repository contains leetcode problems solutions
 | [0219-contains-duplicate-ii](https://github.com/Hemant-Nikam/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hemant-Nikam/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Hemant-Nikam/leetcode/tree/master/0567-permutation-in-string) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Hemant-Nikam/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Linked List
 |  |
 | ------- |
@@ -305,6 +308,7 @@ this repository contains leetcode problems solutions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Hemant-Nikam/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Hemant-Nikam/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0912-sort-an-array](https://github.com/Hemant-Nikam/leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -328,6 +332,7 @@ this repository contains leetcode problems solutions
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Hemant-Nikam/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Hemant-Nikam/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Hemant-Nikam/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Quickselect
 |  |
 | ------- |
@@ -508,4 +513,12 @@ this repository contains leetcode problems solutions
 | [1661-average-time-of-process-per-machine](https://github.com/Hemant-Nikam/leetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Hemant-Nikam/leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Hemant-Nikam/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Queue
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Hemant-Nikam/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Hemant-Nikam/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
