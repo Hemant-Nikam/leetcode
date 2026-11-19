@@ -38,6 +38,7 @@ this repository contains leetcode problems solutions
 | [0209-minimum-size-subarray-sum](https://github.com/Hemant-Nikam/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Hemant-Nikam/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Hemant-Nikam/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Hemant-Nikam/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Hemant-Nikam/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Hemant-Nikam/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Hemant-Nikam/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -102,6 +103,7 @@ this repository contains leetcode problems solutions
 | [0169-majority-element](https://github.com/Hemant-Nikam/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Hemant-Nikam/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Hemant-Nikam/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Hemant-Nikam/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Hemant-Nikam/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Hemant-Nikam/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Hemant-Nikam/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -265,6 +267,7 @@ this repository contains leetcode problems solutions
 | [0088-merge-sorted-array](https://github.com/Hemant-Nikam/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Hemant-Nikam/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Hemant-Nikam/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Hemant-Nikam/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Hemant-Nikam/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Hemant-Nikam/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Hemant-Nikam/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -291,6 +294,7 @@ this repository contains leetcode problems solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Hemant-Nikam/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Hemant-Nikam/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Hemant-Nikam/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2029-stone-game-ix](https://github.com/Hemant-Nikam/leetcode/tree/master/2029-stone-game-ix) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Hemant-Nikam/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -521,4 +525,8 @@ this repository contains leetcode problems solutions
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Hemant-Nikam/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Hemant-Nikam/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
